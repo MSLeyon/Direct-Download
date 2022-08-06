@@ -5,8 +5,8 @@
         "telegram",
         "Linksly"
     ],
-    "website": "https://github.com/MSLeyon/Direct-Download",
-    "repository": "https://github.com/MSLeyon/Direct-Download",
+    "website": "https://github.com/MSLeyon/Linksly-Bot/pulls",
+    "repository": "https://github.com/MSLeyon/Linksly-Bot/pulls",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token",
