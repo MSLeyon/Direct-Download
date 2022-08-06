@@ -1,16 +1,16 @@
 {
-    "name": "GPlink_Bot",
-    "description": "Make short link by using GPlink API key",
+    "name": "Linksly_Bot",
+    "description": "Make short link by using Linksly API key",
     "keywords": [
         "telegram",
-        "gplink"
+        "Linksly"
     ],
-    "website": "https://github.com/mathusanth15/GPlink-bot",
-    "repository": "https://github.com/mathusanth15/GPlink-bot",
+    "website": "https://github.com/MSLeyon/Direct-Download",
+    "repository": "https://github.com/MSLeyon/Direct-Download",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token",
-            "value": "5495794770:AAF7DiB9DtzW0g21HjoGZnX11SOhjU8ZYbM"
+            "value": "5467629503:AAHoJ93oJjLL5MZFJzfIEhLvM5h9UcVllj4"
         },
         "API_ID": {
             "description": "Get this value from https://my.telegram.org",
@@ -22,7 +22,7 @@
         },
         "API_KEY": {
             "description": "Get API key from https://gplinks.in/member/tools/api",
-            "value": "97c5fa355da833d926df0fc4562e7fb62f7263a2"
+            "value": "f8ded3992f63b55b13be222c38b0cd855f7178c2"
         }
     },
     "addons": [],
