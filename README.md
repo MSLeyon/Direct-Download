@@ -1,10 +1,10 @@
-# GPlink-bot
-Make short link by using [GPlink](https://gplinks.in/) API key
+# Linksly-bot
+Make short link by using [Linksly](https://linksly.co/) API key
 ### Installation
 
 #### The Easy Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mathusanth15/GPlink-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MSLeyon/Linksly-Bot)
 
 ##### Required Variables
 
@@ -12,4 +12,4 @@ Make short link by using [GPlink](https://gplinks.in/) API key
 
 * `API_ID`: Get this value from [telegram.org](https://my.telegram.org/apps)
 * `API_HASH`: Get this value from [telegram.org](https://my.telegram.org/apps)
-* `API_KEY`: Create [GPlink](https://gplinks.in/) account then get this value from [GPlink API](https://gplinks.in/member/tools/api)
+* `API_KEY`: Create [Linksly](https://Linksly.co/) account then get this value from [Linksly API](https://linksly.co//member/tools/api)
